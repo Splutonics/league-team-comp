@@ -1,0 +1,715 @@
+
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700" media="none" onload="this.media='all'" rel="stylesheet" type="text/css"/> <link href="//lolg-cdn.porofessor.gg/style.css?v=1642798520" rel="stylesheet" type="text/css">
+<link href="//lolg-cdn.porofessor.gg/style.sprite.css?v=d39fe5323c576b1bf7d972e14203ea9d" rel="stylesheet" type="text/css"/>
+<script src="//lolg-cdn.porofessor.gg/jquery.js?v=3"></script>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="en" http-equiv="content-language"/>
+<meta content="We track the millions of LoL games played every day to gather champion stats, matchups, builds &amp; summoner rankings, as well as champion stats, popularity, winrate, teams rankings, best items and spells." name="description"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="origin" name="referrer"/>
+<meta content="#2AA3CC" name="theme-color"/>
+<title>Error</title>
+<link href="//lolg-cdn.porofessor.gg/img/s/favicon_v2.png" rel="SHORTCUT ICON"/>
+<meta content="https://lolg-cdn.porofessor.gg/img/s/logo.png" property="og:image"/>
+<link href="https://lolg-cdn.porofessor.gg/img/s/logo.png" rel="apple-touch-icon"/> <meta content="@leagueofgraphs" name="twitter:site"/>
+<meta content="@leagueofgraphs" name="twitter:creator"/>
+<meta content="Error" name="twitter:title"/>
+<meta content="We track the millions of LoL games played every day to gather champion stats, matchups, builds &amp; summoner rankings, as well as champion stats, popularity, winrate, teams rankings, best items and spells." name="twitter:description"/>
+<meta content="summary" name="twitter:card"/>
+<meta content="https://lolg-cdn.porofessor.gg/img/s/logo.png" name="twitter:image"/>
+<link href="https://www.leagueofgraphs.com/zh/champions/counters/aatrox" hreflang="zh" rel="alternate"/>
+<link href="https://www.leagueofgraphs.com/vn/champions/counters/aatrox" hreflang="vi" rel="alternate"/>
+<link href="https://www.leagueofgraphs.com/tr/champions/counters/aatrox" hreflang="tr" rel="alternate"/>
+<link href="https://www.leagueofgraphs.com/th/champions/counters/aatrox" hreflang="th" rel="alternate"/>
+<link href="https://www.leagueofgraphs.com/ru/champions/counters/aatrox" hreflang="ru" rel="alternate"/>
+<link href="https://www.leagueofgraphs.com/ro/champions/counters/aatrox" hreflang="ro" rel="alternate"/>
+<link href="https://www.leagueofgraphs.com/pt/champions/counters/aatrox" hreflang="pt" rel="alternate"/>
+<link href="https://www.leagueofgraphs.com/pl/champions/counters/aatrox" hreflang="pl" rel="alternate"/>
+<link href="https://www.leagueofgraphs.com/nl/champions/counters/aatrox" hreflang="nl" rel="alternate"/>
+<link href="https://www.leagueofgraphs.com/ko/champions/counters/aatrox" hreflang="ko" rel="alternate"/>
+<link href="https://www.leagueofgraphs.com/ja/champions/counters/aatrox" hreflang="ja" rel="alternate"/>
+<link href="https://www.leagueofgraphs.com/it/champions/counters/aatrox" hreflang="it" rel="alternate"/>
+<link href="https://www.leagueofgraphs.com/hu/champions/counters/aatrox" hreflang="hu" rel="alternate"/>
+<link href="https://www.leagueofgraphs.com/fr/champions/counters/aatrox" hreflang="fr" rel="alternate"/>
+<link href="https://www.leagueofgraphs.com/es/champions/counters/aatrox" hreflang="es" rel="alternate"/>
+<link href="https://www.leagueofgraphs.com/champions/counters/aatrox" hreflang="en" rel="alternate"/>
+<link href="https://www.leagueofgraphs.com/el/champions/counters/aatrox" hreflang="el" rel="alternate"/>
+<link href="https://www.leagueofgraphs.com/de/champions/counters/aatrox" hreflang="de" rel="alternate"/>
+<link href="https://www.leagueofgraphs.com/cs/champions/counters/aatrox" hreflang="cs" rel="alternate"/>
+<script type="text/javascript">
+var AdblockPlus=new function(){this.detect=function(n,e){var o=!1,r=2,c=!1,t=!1;if("function"==typeof e){n+="?ch=*&rn=*";var a=11*Math.random(),i=new Image;i.onload=u,i.onerror=function(){c=!0,u()},i.src=n.replace(/\*/,1).replace(/\*/,a);var f=new Image;f.onload=u,f.onerror=function(){t=!0,u()},f.src=n.replace(/\*/,2).replace(/\*/,a),function n(e,c){0==r||c>1e3?e(0==r&&o):setTimeout(function(){n(e,2*c)},2*c)}(e,250)}function u(){--r||(o=!c&&t)}}};
+</script>
+<script type="text/javascript">
+window['nitroAds'] = window['nitroAds'] || { createAd: function () { window.nitroAds.queue.push(["createAd", arguments]) }, queue: [] };
+</script>
+<script async="" src="https://s.nitropay.com/ads-235.js"></script>
+<script async="" src="https://s.nitropay.com/aan-235.js"></script>
+<script type="text/javascript">
+window['nitroAds'].createAd('mobile', {
+  "refreshLimit": 10,
+  "refreshTime": 30,
+  "format": "anchor",
+  "anchor": "bottom",
+  "mediaQuery": "(min-width: 0px) and (max-width: 640px)"
+});
+</script>
+<meta content="CV-UarjOUt74nU7:" name="cv"><script type="text/javascript">var cvs = (window["cvs"] || []);cvs.push("CV-UarjOUt74nU7:");</script>
+<script type="text/javascript">
+                var isDarkMode = false;
+            </script>
+<script type="text/javascript">
+            var cdnDomain = 'lolg-cdn.porofessor.gg';
+        </script>
+<script type="text/javascript">
+            var wgblue = '#2796BC';
+            var wggreen = '#3CBC8D';
+            var wgred = '#E9422E';
+            var wgyellow = '#FAC552';
+        </script>
+<script type="text/javascript">
+            var mediumBreakpoint = 640;
+            var largeBreakpoint = 1180;
+        </script>
+</meta></link></head>
+<body class="game-lol">
+<div class="contain-to-grid nobackground" id="topnavbar">
+<nav class="top-bar" data-options="mobile_show_parent_link: false" data-topbar="" role="navigation">
+<ul class="title-area medium-5">
+<li class="name">
+<h1>
+<a href="/">
+<img alt="LeagueOfGraphs.com" height="33" src="//lolg-cdn.porofessor.gg/img/s/banner2.png" width="113"/>
+</a>
+</h1>
+</li>
+<li class="toggle-topbar menu-icon">
+<a href="#">
+<span></span>
+</a>
+</li>
+</ul>
+<section class="top-bar-section medium-19">
+<ul class="right">
+<li>
+<div class="nightmode-toggle hide-for-small-down">
+<i class="fa fa-sun"></i>
+<label class="switch">
+<input onclick="NightModeSwitch.switch()" type="checkbox"/>
+<span class="slider round"></span>
+</label>
+<i class="fa fa-moon"></i>
+</div>
+</li>
+<li class="show-for-small-down" id="searchArea">
+<form id="topnavbarform-mobile" verb="search">
+<div class="row collapse">
+<div class="medium-20 small-18 columns">
+<input autocomplete="off" class="search_field" name="wg_q" placeholder="Champion, Summoner..." spellcheck="false" type="text">
+</input></div>
+<div class="medium-4 small-6 columns">
+<button class="search_button" type="submit">
+<i class="fa fa-search"></i>
+</button>
+</div>
+</div>
+</form>
+</li>
+<li class="hide-for-medium-up">
+<a href="/">
+                                Home                            </a>
+</li>
+<li class="hide-for-medium-up has-dropdown active">
+<a href="#">Champions</a>
+<ul class="dropdown sidebar-links">
+<li class="">
+<a data-filters="" data-link-game="" data-link-page="builds" data-link-section="champions" href="/champions/builds">
+                                               Overview                                        </a>
+</li>
+<li class="">
+<a data-filters="" data-link-game="" data-link-page="stats" data-link-section="champions" href="/champions/stats">
+                                               Champions stats                                        </a>
+</li>
+<li class="">
+<a data-filters="" data-link-game="" data-link-page="probuilds" data-link-section="champions" href="/champions/probuilds">
+                                               ProBuilds                                        </a>
+</li>
+<li class="active">
+<a data-filters="" data-link-game="" data-link-page="counters" data-link-section="champions" href="/champions/counters">
+                                               Matchups                                        </a>
+</li>
+<li class="">
+<a data-filters="" data-link-game="" data-link-page="runes" data-link-section="champions" href="/champions/runes">
+                                               Runes                                        </a>
+</li>
+<li class="">
+<a data-filters="" data-link-game="" data-link-page="skills-orders" data-link-section="champions" href="/champions/skills-orders">
+                                               Skill Orders                                        </a>
+</li>
+<li class="">
+<a data-filters="" data-link-game="" data-link-page="items" data-link-section="champions" href="/champions/items">
+                                               Items                                        </a>
+</li>
+<li class="">
+<a data-filters="" data-link-game="" data-link-page="spells" data-link-section="champions" href="/champions/spells">
+                                               Summoner Spells                                        </a>
+</li>
+<li class="">
+<a data-filters="" data-link-game="" data-link-page="jungle-paths" data-link-section="champions" href="/champions/jungle-paths">
+                                               Jungle Paths                                        </a>
+</li>
+<li class="">
+<a data-filters="" data-link-game="" data-link-page="other-stats" data-link-section="champions" href="/champions/other-stats">
+                                               More...                                        </a>
+</li>
+</ul>
+</li>
+<li class="hide-for-medium-up has-dropdown">
+<a href="#">Rankings &amp; Stats</a>
+<ul class="dropdown sidebar-links">
+<li class="">
+<a data-filters="" data-link-game="" data-link-page="summoners" data-link-section="rankings" href="/rankings/summoners">
+                                               Best Players                                        </a>
+</li>
+<li class="">
+<a data-filters="" data-link-game="" data-link-page="records" data-link-section="rankings" href="/rankings/records">
+                                               Records                                        </a>
+</li>
+<li class="">
+<a data-filters="" data-link-game="" data-link-page="champion-masteries" data-link-section="rankings" href="/rankings/champion-masteries">
+                                               Mastery Points                                        </a>
+</li>
+<li class="">
+<a data-filters="" data-link-game="" data-link-page="rank-distribution" data-link-section="rankings" href="/rankings/rank-distribution">
+                                               Rank distribution                                        </a>
+</li>
+<li class="">
+<a data-filters="" data-link-game="" data-link-page="blue-vs-red" data-link-section="rankings" href="/rankings/blue-vs-red">
+                                               Blue vs. Red                                        </a>
+</li>
+<li class="">
+<a data-filters="" data-link-game="" data-link-page="drakes" data-link-section="rankings" href="/rankings/drakes">
+                                               Drake stats                                        </a>
+</li>
+<li class="">
+<a data-filters="" data-link-game="" data-link-page="win-stats" data-link-section="rankings" href="/rankings/win-stats">
+                                               Win Stats                                        </a>
+</li>
+<li class="">
+<a data-filters="" data-link-game="" data-link-page="surrender-stats" data-link-section="rankings" href="/rankings/surrender-stats">
+                                               Surrender stats                                        </a>
+</li>
+<li class="">
+<a data-filters="" data-link-game="" data-link-page="afk-stats" data-link-section="rankings" href="/rankings/afk-stats">
+                                               AFK stats                                        </a>
+</li>
+<li class="">
+<a data-filters="" data-link-game="" data-link-page="game-durations" data-link-section="rankings" href="/rankings/game-durations">
+                                               Game Durations                                        </a>
+</li>
+<li class="">
+<a data-filters="" data-link-game="" data-link-page="warding" data-link-section="rankings" href="/rankings/warding">
+                                               Warding                                        </a>
+</li>
+</ul>
+</li>
+<li class="hide-for-medium-up">
+<a href="/infographics">
+                                Infographics                            </a>
+</li>
+<li class="hide-for-medium-up has-dropdown">
+<a href="#">Replays</a>
+<ul class="dropdown sidebar-links">
+<li class="">
+<a data-filters="" data-link-game="" data-link-page="all" data-link-section="replays" href="/replays/all">
+                                               All Replays                                        </a>
+</li>
+<li class="">
+<a data-filters="" data-link-game="" data-link-page="with-pentakills" data-link-section="replays" href="/replays/with-pentakills">
+                                               With PentaKills                                        </a>
+</li>
+<li class="">
+<a data-filters="" data-link-game="" data-link-page="with-high-kda" data-link-section="replays" href="/replays/with-high-kda">
+                                               With High KDA                                        </a>
+</li>
+<li class="">
+<a data-filters="" data-link-game="" data-link-page="with-pros" data-link-section="replays" href="/replays/with-pros">
+                                               With Pros                                        </a>
+</li>
+</ul>
+</li>
+<li class="hide-for-medium-up">
+<a href="https://porofessor.gg">
+                                Porofessor                            </a>
+</li>
+<li class="hide-for-medium-up">
+<a href="/contact">
+                        Contact                    </a>
+</li>
+<li class="has-form show-for-medium-up" id="searchArea">
+<form id="topnavbarform" verb="search">
+<div class="row collapse">
+<div class="medium-20 small-18 columns relative">
+<input autocomplete="off" class="search_field" name="wg_q" placeholder="Champion, Summoner..." spellcheck="false" type="text"/>
+</div>
+<div class="medium-4 small-6 columns">
+<button class="search_button" type="submit">
+<i class="fa fa-search"></i>
+</button>
+</div>
+</div>
+</form>
+</li>
+<li class="has-dropdown hide-for-medium-up">
+<a href="#">Games</a>
+<ul class="dropdown">
+<li class="">
+<a href="/">
+                                    LOL                                </a>
+</li>
+<li class="">
+<a href="/tft/">
+                                    TFT                                </a>
+</li>
+<li class="">
+<a href="/lor/">
+                                    LoR                                </a>
+</li>
+</ul>
+</li>
+<li class="has-dropdown">
+<a href="#">EN</a>
+<ul class="dropdown">
+<li class="languageLink"><a href="/cs/champions/counters/aatrox">CS</a></li>
+<li class="languageLink"><a href="/de/champions/counters/aatrox">DE</a></li>
+<li class="languageLink"><a href="/el/champions/counters/aatrox">EL</a></li>
+<li class="languageLink"><a class="active" href="/champions/counters/aatrox">EN</a></li>
+<li class="languageLink"><a href="/es/champions/counters/aatrox">ES</a></li>
+<li class="languageLink"><a href="/fr/champions/counters/aatrox">FR</a></li>
+<li class="languageLink"><a href="/hu/champions/counters/aatrox">HU</a></li>
+<li class="languageLink"><a href="/it/champions/counters/aatrox">IT</a></li>
+<li class="languageLink"><a href="/ja/champions/counters/aatrox">JA</a></li>
+<li class="languageLink"><a href="/ko/champions/counters/aatrox">KO</a></li>
+<li class="languageLink"><a href="/nl/champions/counters/aatrox">NL</a></li>
+<li class="languageLink"><a href="/pl/champions/counters/aatrox">PL</a></li>
+<li class="languageLink"><a href="/pt/champions/counters/aatrox">PT</a></li>
+<li class="languageLink"><a href="/ro/champions/counters/aatrox">RO</a></li>
+<li class="languageLink"><a href="/ru/champions/counters/aatrox">RU</a></li>
+<li class="languageLink"><a href="/th/champions/counters/aatrox">TH</a></li>
+<li class="languageLink"><a href="/tr/champions/counters/aatrox">TR</a></li>
+<li class="languageLink"><a href="/vn/champions/counters/aatrox">VN</a></li>
+<li class="languageLink"><a href="/zh/champions/counters/aatrox">ZH</a></li>
+</ul>
+</li>
+</ul>
+<!-- Left Nav Section -->
+<ul class="left hide-for-small-down">
+<li class="active">
+<a href="/">
+<img alt="League of Legends" height="24" src="//lolg-cdn.porofessor.gg/img/s/lol-icon.png" title="League of Legends" width="24"/>
+</a>
+</li>
+<li class="">
+<a href="/tft/">
+<img alt="TeamFight Tactics" height="24" src="//lolg-cdn.porofessor.gg/img/s/tft-icon.png" title="TeamFight Tactics" width="24"/>
+</a>
+</li>
+<li class="">
+<a href="/lor/">
+<img alt="Legends of Runeterra" height="24" src="//lolg-cdn.porofessor.gg/img/s/lor-icon.png" title="Legends of Runeterra" width="24"/>
+</a>
+</li>
+</ul>
+</section>
+</nav>
+</div>
+<div class="row" id="pageContainer">
+<div class="text-center hidden" id="leftStaticSlot"></div>
+<script>
+                    (function() {
+                        if(window.innerWidth >= 1550){
+                            $('#leftStaticSlot').removeClass('hidden');
+                            var repositionStaticVertical2 = () => {
+                                let elmntWidth = 1220;
+                                let windowWidth = window.innerWidth;
+                                let horizontal = (windowWidth-elmntWidth)/2-170;
+                                $('#leftStaticSlot').css('left', horizontal);
+                            }
+                            $(window).resize(repositionStaticVertical2);
+                            repositionStaticVertical2();
+                        
+                            if(window['nitroAds']){
+                                window['nitroAds'].createAd("leftStaticSlot", {"floor": 0.2, "refreshLimit": 10, "refreshTime": 30, "sizes": [[160,600]], "report":{"enabled":true,"wording":"Report Ad","position":"bottom-right"}});
+                            } 
+                        } 
+                    })();
+                </script>
+<div class="medium-5 hide-for-small-down columns nopadding" id="sidebar-container">
+<div id="sidebar">
+<dl class="accordion" data-accordion="" id="sidebar-accordion">
+<dd class="sidebar-navigation">
+<a href="/" target="">
+<i class="fa fa-home"></i>
+                            Home                        </a>
+</dd>
+<dd class="sidebar-navigation accordion-navigation active">
+<a data-deploy="true" data-link-game="" data-link-section="champions" href="/champions/builds">
+<i class="fa fa-users"></i>
+                            Champions                        </a>
+<div class="content active sidebar-subnavigation">
+<dl>
+<dd class="">
+<a data-filters="" data-link-game="" data-link-page="builds" data-link-section="champions" href="/champions/builds">
+<i class="fa fa-angle-right"></i>
+                                            Overview                                                                                                                                </a>
+</dd>
+<dd class="">
+<a data-filters="" data-link-game="" data-link-page="stats" data-link-section="champions" href="/champions/stats">
+<i class="fa fa-angle-right"></i>
+                                            Champions stats                                                                                                                                </a>
+</dd>
+<dd class="">
+<a data-filters="" data-link-game="" data-link-page="probuilds" data-link-section="champions" href="/champions/probuilds">
+<i class="fa fa-angle-right"></i>
+                                            ProBuilds                                                                                                                                </a>
+</dd>
+<dd class="active">
+<a data-filters="" data-link-game="" data-link-page="counters" data-link-section="champions" href="/champions/counters">
+<i class="fa fa-angle-right"></i>
+                                            Matchups                                                                                                                                </a>
+</dd>
+<dd class="">
+<a data-filters="" data-link-game="" data-link-page="runes" data-link-section="champions" href="/champions/runes">
+<i class="fa fa-angle-right"></i>
+                                            Runes                                                                                                                                </a>
+</dd>
+<dd class="">
+<a data-filters="" data-link-game="" data-link-page="skills-orders" data-link-section="champions" href="/champions/skills-orders">
+<i class="fa fa-angle-right"></i>
+                                            Skill Orders                                                                                                                                </a>
+</dd>
+<dd class="">
+<a data-filters="" data-link-game="" data-link-page="items" data-link-section="champions" href="/champions/items">
+<i class="fa fa-angle-right"></i>
+                                            Items                                                                                                                                </a>
+</dd>
+<dd class="">
+<a data-filters="" data-link-game="" data-link-page="spells" data-link-section="champions" href="/champions/spells">
+<i class="fa fa-angle-right"></i>
+                                            Summoner Spells                                                                                                                                </a>
+</dd>
+<dd class="">
+<a data-filters="" data-link-game="" data-link-page="jungle-paths" data-link-section="champions" href="/champions/jungle-paths">
+<i class="fa fa-angle-right"></i>
+                                            Jungle Paths                                                                                                                                        <div class="sidebar_new_badge red"></div>
+</a>
+</dd>
+<dd class="">
+<a data-filters="" data-link-game="" data-link-page="other-stats" data-link-section="champions" href="/champions/other-stats">
+<i class="fa fa-angle-right"></i>
+                                            More...                                                                                                                                </a>
+</dd>
+</dl>
+</div>
+</dd>
+<dd class="sidebar-navigation accordion-navigation">
+<a data-deploy="true" data-link-game="" data-link-section="rankings" href="/rankings/summoners">
+<i class="fa fa-bar-chart"></i>
+                            Rankings &amp; Stats                        </a>
+<div class="content sidebar-subnavigation">
+<dl>
+<dd class="">
+<a data-filters="" data-link-game="" data-link-page="summoners" data-link-section="rankings" href="/rankings/summoners">
+<i class="fa fa-angle-right"></i>
+                                            Best Players                                                                                                                                </a>
+</dd>
+<dd class="">
+<a data-filters="" data-link-game="" data-link-page="records" data-link-section="rankings" href="/rankings/records">
+<i class="fa fa-angle-right"></i>
+                                            Records                                                                                                                                </a>
+</dd>
+<dd class="">
+<a data-filters="" data-link-game="" data-link-page="champion-masteries" data-link-section="rankings" href="/rankings/champion-masteries">
+<i class="fa fa-angle-right"></i>
+                                            Mastery Points                                                                                                                                </a>
+</dd>
+<dd class="">
+<a data-filters="" data-link-game="" data-link-page="rank-distribution" data-link-section="rankings" href="/rankings/rank-distribution">
+<i class="fa fa-angle-right"></i>
+                                            Rank distribution                                                                                                                                </a>
+</dd>
+<dd class="">
+<a data-filters="" data-link-game="" data-link-page="blue-vs-red" data-link-section="rankings" href="/rankings/blue-vs-red">
+<i class="fa fa-angle-right"></i>
+                                            Blue vs. Red                                                                                                                                </a>
+</dd>
+<dd class="">
+<a data-filters="" data-link-game="" data-link-page="drakes" data-link-section="rankings" href="/rankings/drakes">
+<i class="fa fa-angle-right"></i>
+                                            Drake stats                                                                                                                                </a>
+</dd>
+<dd class="">
+<a data-filters="" data-link-game="" data-link-page="win-stats" data-link-section="rankings" href="/rankings/win-stats">
+<i class="fa fa-angle-right"></i>
+                                            Win Stats                                                                                                                                </a>
+</dd>
+<dd class="">
+<a data-filters="" data-link-game="" data-link-page="surrender-stats" data-link-section="rankings" href="/rankings/surrender-stats">
+<i class="fa fa-angle-right"></i>
+                                            Surrender stats                                                                                                                                </a>
+</dd>
+<dd class="">
+<a data-filters="" data-link-game="" data-link-page="afk-stats" data-link-section="rankings" href="/rankings/afk-stats">
+<i class="fa fa-angle-right"></i>
+                                            AFK stats                                                                                                                                </a>
+</dd>
+<dd class="">
+<a data-filters="" data-link-game="" data-link-page="game-durations" data-link-section="rankings" href="/rankings/game-durations">
+<i class="fa fa-angle-right"></i>
+                                            Game Durations                                                                                                                                </a>
+</dd>
+<dd class="">
+<a data-filters="" data-link-game="" data-link-page="warding" data-link-section="rankings" href="/rankings/warding">
+<i class="fa fa-angle-right"></i>
+                                            Warding                                                                                                                                </a>
+</dd>
+</dl>
+</div>
+</dd>
+<dd class="sidebar-navigation">
+<a href="/infographics" target="">
+<i class="fa fa-chart-area"></i>
+                            Infographics                        </a>
+</dd>
+<dd class="sidebar-navigation accordion-navigation">
+<a data-deploy="true" data-link-game="" data-link-section="replays" href="/replays/all">
+<i class="fa fa-play"></i>
+                            Replays                        </a>
+<div class="content sidebar-subnavigation">
+<dl>
+<dd class="">
+<a data-filters="" data-link-game="" data-link-page="all" data-link-section="replays" href="/replays/all">
+<i class="fa fa-angle-right"></i>
+                                            All Replays                                                                                                                                </a>
+</dd>
+<dd class="">
+<a data-filters="" data-link-game="" data-link-page="with-pentakills" data-link-section="replays" href="/replays/with-pentakills">
+<i class="fa fa-angle-right"></i>
+                                            With PentaKills                                                                                                                                </a>
+</dd>
+<dd class="">
+<a data-filters="" data-link-game="" data-link-page="with-high-kda" data-link-section="replays" href="/replays/with-high-kda">
+<i class="fa fa-angle-right"></i>
+                                            With High KDA                                                                                                                                </a>
+</dd>
+<dd class="">
+<a data-filters="" data-link-game="" data-link-page="with-pros" data-link-section="replays" href="/replays/with-pros">
+<i class="fa fa-angle-right"></i>
+                                            With Pros                                                                                                                                </a>
+</dd>
+</dl>
+</div>
+</dd>
+<dd class="sidebar-navigation">
+<a href="https://porofessor.gg" target="_blank">
+<i class="fa fa-porofessor"></i>
+                            Porofessor                        </a>
+</dd>
+</dl>
+<div id="sidebar-bottom">
+<div id="site-infos">
+<div class="patch">Patch: 12.2</div>
+<div>
+        10,537,337 matches        (Last 2 days)
+    </div>
+</div>
+<div id="site-links">
+<a href="/contact">Contact</a>
+        -
+        <a href="/privacy">Privacy</a>
+        -
+        <a href="/terms-of-use">TOS</a>
+        -
+        <a href="https://www.facebook.com/pages/League-of-Graphs/814590001962812" onclick="WgHelpers.sendGaEvent('SocialButton', 'Facebook Button Click', '')" target="_blank"><i class="fa fa-facebook"></i></a>
+        -
+        <a href="https://twitter.com/leagueofgraphs" onclick="WgHelpers.sendGaEvent('SocialButton', 'Twitter Button Click', '')" target="_blank"><i class="fa fa-twitter"></i></a>
+        -
+        <a href="https://discord.gg/sETupGR" onclick="WgHelpers.sendGaEvent('SocialButton', 'Discord Button Click', '')" target="_blank"><i class="fa fa-discord"></i></a>
+</div>
+</div> </div>
+    ... <!-- fix reflow on chrome Oo -->
+</div>
+<div class="medium-19 small-24 columns" id="pageContent">
+<div class="row" id="filters-menu">
+<div class="breadcrumb left hide-for-small-down">
+<ul>
+<li>
+<a href="/" onclick="WgHelpers.sendGaEvent('Breadcrumb', 'Click on lvl1 link', 'Home')">
+<span>Home</span>
+</a>
+</li>
+</ul>
+</div>
+<div class="hide-for-small-down">
+<div class="spinnerContainer left"></div> </div>
+<div class="show-for-small-down">
+<div class="spinnerContainer left"></div> </div>
+</div>
+<div id="mainContentSuperContainer">
+<div id="mainContentContainer">
+<div style="position: relative;">
+<div class="text-center" id="adasync338293"></div>
+<script>
+                            (function() {
+                                if(window['nitroAds']){
+                                    if(window.innerWidth >= 767){
+                                        if(true){
+                                            document.getElementById('adasync338293').innerHTML = '<div id="horizTop" class="ads ad adsbox doubleclick ad-placement carbon-ads" style="min-height: 90px; margin-top:0px; margin-bottom:15px"></div>';
+                                            window['nitroAds'].createAd("horizTop", {"floor": 0.2, "refreshLimit": 10, "refreshTime": 30, skipBidders:["dfp"], "sizes": [[728, 90]], "report":{"enabled":true,"wording":"Report Ad","position":"bottom-right"}});
+                                        }
+                                    } else {
+                                        if(false) {
+                                            document.getElementById('adasync338293').innerHTML = '<div id="horizTop-mobile" class="ads ad adsbox doubleclick ad-placement carbon-ads" style="min-height: 250px; margin-top:0px; margin-bottom:15px"></div>';
+                                            window['nitroAds'].createAd("horizTop-mobile", {"floor": 0.2, "refreshLimit": 10, "refreshTime": 30, skipBidders:["dfp"], "sizes": [[300, 250], [320, 50]], "report":{"enabled":true,"wording":"Report Ad","position":"bottom-right"}});
+                                        }
+                                    }
+                                }
+                            })();
+                        </script>
+</div>
+<div id="mainContent">
+<div class="box box-padding-10">
+<div class="solo-text">403</div>
+</div><script type="text/javascript">
+    var newTooltipData = [];
+    if (window.tooltipData) {
+        window.tooltipData = Object.assign(window.tooltipData, newTooltipData);
+    } else {
+        window.tooltipData = newTooltipData;
+    }
+</script> </div>
+<div style="position: relative;">
+<div class="text-center" id="adasync748743"></div>
+<script>
+                            (function() {
+                                if(window['nitroAds']){
+                                    if(window.innerWidth >= 767){
+                                        if(true){
+                                            document.getElementById('adasync748743').innerHTML = '<div id="horizBottom" class="ads ad adsbox doubleclick ad-placement carbon-ads" style="min-height: 90px; margin-top:0px; margin-bottom:0px"></div>';
+                                            window['nitroAds'].createAd("horizBottom", {"floor": 0.2, "refreshLimit": 10, "refreshTime": 30, skipBidders:["dfp"], "sizes": [[728, 90]], "report":{"enabled":true,"wording":"Report Ad","position":"bottom-right"}});
+                                        }
+                                    } else {
+                                        if(true) {
+                                            document.getElementById('adasync748743').innerHTML = '<div id="horizBottom-mobile" class="ads ad adsbox doubleclick ad-placement carbon-ads" style="min-height: 250px; margin-top:0px; margin-bottom:0px"></div>';
+                                            window['nitroAds'].createAd("horizBottom-mobile", {"floor": 0.2, "refreshLimit": 10, "refreshTime": 30, skipBidders:["dfp"], "sizes": [[300, 250], [320, 50]], "report":{"enabled":true,"wording":"Report Ad","position":"bottom-right"}});
+                                        }
+                                    }
+                                }
+                            })();
+                        </script>
+</div>
+</div>
+<div id="footer">
+                        © Copyright 2013-2022 www.leagueofgraphs.com. All rights reserved.
+                        <br/>
+                        LeagueOfGraphs.com isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or anyone officially involved in producing or managing League of Legends. League of Legends and Riot Games are trademarks or registered trademarks of Riot Games, Inc. League of Legends © Riot Games, Inc.
+                        Also available on <a href="https://play.google.com/store/apps/details?id=leagueofgraphs.com.leagueofgraphs" target="_blank">Android</a>.
+                        <span class="ccpaLink" data-ccpa-link="1"></span>.
+                        <u><a href="/legal">Legal</a></u>.
+                        Page generated in 0.001s                        <br/>
+</div>
+</div>
+<div class="text-center hidden" id="rightStaticSlot"></div>
+<script>
+                    (function() {
+                        if(window.innerWidth >= 1550){
+                            $('#rightStaticSlot').removeClass('hidden');
+                            var repositionStaticVertical = () => {
+                                let elmntWidth = 1220;
+                                let windowWidth = window.innerWidth;
+                                let horizontal = (windowWidth+elmntWidth)/2+10;
+                                $('#rightStaticSlot').css('left', horizontal);
+                            }
+                            $(window).resize(repositionStaticVertical);
+                            repositionStaticVertical();
+                        
+                            if(window['nitroAds']){
+                                window['nitroAds'].createAd("rightStaticSlot", {"floor": 0.2, "refreshLimit": 10, "refreshTime": 30, "sizes": [[160,600],[300,600]], "report":{"enabled":true,"wording":"Report Ad","position":"bottom-right"}});
+                            } 
+                        } 
+                    })();
+                </script> </div>
+</div>
+<script type="text/javascript">
+            var urlLanguagePrefix = '';
+            var urlGamePrefix = '';
+            var ajaxManager;
+            $(function () {
+                var basePageStatus = {"lang":"en","page":"counters","game":null,"section":"champions","regions":null,"summonerRegions":null,"champions":"all","ratings":"platinum","durations":null,"roles":null,"sortBy":null,"queueIds":null,"tftQueueIds":null,"recordId":null,"last30daysOnly":null,"vs":"all","tftComp":null};
+                var pageFilters = [];
+                ajaxManager = new LoLGAjaxManager(basePageStatus, pageFilters);
+            });
+        </script>
+<!-- Autocomplete -->
+<script type="text/javascript">
+    $(function () {
+
+        var allChampions = [{"championId":"1","championSlug":"annie","championName":"Annie","championNameWithBuild":"Annie  Build"},{"championId":"2","championSlug":"olaf","championName":"Olaf","championNameWithBuild":"Olaf  Build"},{"championId":"3","championSlug":"galio","championName":"Galio","championNameWithBuild":"Galio  Build"},{"championId":"4","championSlug":"twistedfate","championName":"Twisted Fate","championNameWithBuild":"Twisted Fate  Build"},{"championId":"5","championSlug":"xinzhao","championName":"Xin Zhao","championNameWithBuild":"Xin Zhao  Build"},{"championId":"6","championSlug":"urgot","championName":"Urgot","championNameWithBuild":"Urgot  Build"},{"championId":"7","championSlug":"leblanc","championName":"LeBlanc","championNameWithBuild":"LeBlanc  Build"},{"championId":"8","championSlug":"vladimir","championName":"Vladimir","championNameWithBuild":"Vladimir  Build"},{"championId":"9","championSlug":"fiddlesticks","championName":"Fiddlesticks","championNameWithBuild":"Fiddlesticks  Build"},{"championId":"10","championSlug":"kayle","championName":"Kayle","championNameWithBuild":"Kayle  Build"},{"championId":"11","championSlug":"masteryi","championName":"Master Yi","championNameWithBuild":"Master Yi  Build"},{"championId":"12","championSlug":"alistar","championName":"Alistar","championNameWithBuild":"Alistar  Build"},{"championId":"13","championSlug":"ryze","championName":"Ryze","championNameWithBuild":"Ryze  Build"},{"championId":"14","championSlug":"sion","championName":"Sion","championNameWithBuild":"Sion  Build"},{"championId":"15","championSlug":"sivir","championName":"Sivir","championNameWithBuild":"Sivir  Build"},{"championId":"16","championSlug":"soraka","championName":"Soraka","championNameWithBuild":"Soraka  Build"},{"championId":"17","championSlug":"teemo","championName":"Teemo","championNameWithBuild":"Teemo  Build"},{"championId":"18","championSlug":"tristana","championName":"Tristana","championNameWithBuild":"Tristana  Build"},{"championId":"19","championSlug":"warwick","championName":"Warwick","championNameWithBuild":"Warwick  Build"},{"championId":"20","championSlug":"nunu","championName":"Nunu & Willump","championNameWithBuild":"Nunu & Willump  Build"},{"championId":"21","championSlug":"missfortune","championName":"Miss Fortune","championNameWithBuild":"Miss Fortune  Build"},{"championId":"22","championSlug":"ashe","championName":"Ashe","championNameWithBuild":"Ashe  Build"},{"championId":"23","championSlug":"tryndamere","championName":"Tryndamere","championNameWithBuild":"Tryndamere  Build"},{"championId":"24","championSlug":"jax","championName":"Jax","championNameWithBuild":"Jax  Build"},{"championId":"25","championSlug":"morgana","championName":"Morgana","championNameWithBuild":"Morgana  Build"},{"championId":"26","championSlug":"zilean","championName":"Zilean","championNameWithBuild":"Zilean  Build"},{"championId":"27","championSlug":"singed","championName":"Singed","championNameWithBuild":"Singed  Build"},{"championId":"28","championSlug":"evelynn","championName":"Evelynn","championNameWithBuild":"Evelynn  Build"},{"championId":"29","championSlug":"twitch","championName":"Twitch","championNameWithBuild":"Twitch  Build"},{"championId":"30","championSlug":"karthus","championName":"Karthus","championNameWithBuild":"Karthus  Build"},{"championId":"31","championSlug":"chogath","championName":"Cho'Gath","championNameWithBuild":"Cho'Gath  Build"},{"championId":"32","championSlug":"amumu","championName":"Amumu","championNameWithBuild":"Amumu  Build"},{"championId":"33","championSlug":"rammus","championName":"Rammus","championNameWithBuild":"Rammus  Build"},{"championId":"34","championSlug":"anivia","championName":"Anivia","championNameWithBuild":"Anivia  Build"},{"championId":"35","championSlug":"shaco","championName":"Shaco","championNameWithBuild":"Shaco  Build"},{"championId":"36","championSlug":"drmundo","championName":"Dr. Mundo","championNameWithBuild":"Dr. Mundo  Build"},{"championId":"37","championSlug":"sona","championName":"Sona","championNameWithBuild":"Sona  Build"},{"championId":"38","championSlug":"kassadin","championName":"Kassadin","championNameWithBuild":"Kassadin  Build"},{"championId":"39","championSlug":"irelia","championName":"Irelia","championNameWithBuild":"Irelia  Build"},{"championId":"40","championSlug":"janna","championName":"Janna","championNameWithBuild":"Janna  Build"},{"championId":"41","championSlug":"gangplank","championName":"Gangplank","championNameWithBuild":"Gangplank  Build"},{"championId":"42","championSlug":"corki","championName":"Corki","championNameWithBuild":"Corki  Build"},{"championId":"43","championSlug":"karma","championName":"Karma","championNameWithBuild":"Karma  Build"},{"championId":"44","championSlug":"taric","championName":"Taric","championNameWithBuild":"Taric  Build"},{"championId":"45","championSlug":"veigar","championName":"Veigar","championNameWithBuild":"Veigar  Build"},{"championId":"48","championSlug":"trundle","championName":"Trundle","championNameWithBuild":"Trundle  Build"},{"championId":"50","championSlug":"swain","championName":"Swain","championNameWithBuild":"Swain  Build"},{"championId":"51","championSlug":"caitlyn","championName":"Caitlyn","championNameWithBuild":"Caitlyn  Build"},{"championId":"53","championSlug":"blitzcrank","championName":"Blitzcrank","championNameWithBuild":"Blitzcrank  Build"},{"championId":"54","championSlug":"malphite","championName":"Malphite","championNameWithBuild":"Malphite  Build"},{"championId":"55","championSlug":"katarina","championName":"Katarina","championNameWithBuild":"Katarina  Build"},{"championId":"56","championSlug":"nocturne","championName":"Nocturne","championNameWithBuild":"Nocturne  Build"},{"championId":"57","championSlug":"maokai","championName":"Maokai","championNameWithBuild":"Maokai  Build"},{"championId":"58","championSlug":"renekton","championName":"Renekton","championNameWithBuild":"Renekton  Build"},{"championId":"59","championSlug":"jarvaniv","championName":"Jarvan IV","championNameWithBuild":"Jarvan IV  Build"},{"championId":"60","championSlug":"elise","championName":"Elise","championNameWithBuild":"Elise  Build"},{"championId":"61","championSlug":"orianna","championName":"Orianna","championNameWithBuild":"Orianna  Build"},{"championId":"62","championSlug":"monkeyking","championName":"Wukong","championNameWithBuild":"Wukong  Build"},{"championId":"63","championSlug":"brand","championName":"Brand","championNameWithBuild":"Brand  Build"},{"championId":"64","championSlug":"leesin","championName":"Lee Sin","championNameWithBuild":"Lee Sin  Build"},{"championId":"67","championSlug":"vayne","championName":"Vayne","championNameWithBuild":"Vayne  Build"},{"championId":"68","championSlug":"rumble","championName":"Rumble","championNameWithBuild":"Rumble  Build"},{"championId":"69","championSlug":"cassiopeia","championName":"Cassiopeia","championNameWithBuild":"Cassiopeia  Build"},{"championId":"72","championSlug":"skarner","championName":"Skarner","championNameWithBuild":"Skarner  Build"},{"championId":"74","championSlug":"heimerdinger","championName":"Heimerdinger","championNameWithBuild":"Heimerdinger  Build"},{"championId":"75","championSlug":"nasus","championName":"Nasus","championNameWithBuild":"Nasus  Build"},{"championId":"76","championSlug":"nidalee","championName":"Nidalee","championNameWithBuild":"Nidalee  Build"},{"championId":"77","championSlug":"udyr","championName":"Udyr","championNameWithBuild":"Udyr  Build"},{"championId":"78","championSlug":"poppy","championName":"Poppy","championNameWithBuild":"Poppy  Build"},{"championId":"79","championSlug":"gragas","championName":"Gragas","championNameWithBuild":"Gragas  Build"},{"championId":"80","championSlug":"pantheon","championName":"Pantheon","championNameWithBuild":"Pantheon  Build"},{"championId":"81","championSlug":"ezreal","championName":"Ezreal","championNameWithBuild":"Ezreal  Build"},{"championId":"82","championSlug":"mordekaiser","championName":"Mordekaiser","championNameWithBuild":"Mordekaiser  Build"},{"championId":"83","championSlug":"yorick","championName":"Yorick","championNameWithBuild":"Yorick  Build"},{"championId":"84","championSlug":"akali","championName":"Akali","championNameWithBuild":"Akali  Build"},{"championId":"85","championSlug":"kennen","championName":"Kennen","championNameWithBuild":"Kennen  Build"},{"championId":"86","championSlug":"garen","championName":"Garen","championNameWithBuild":"Garen  Build"},{"championId":"89","championSlug":"leona","championName":"Leona","championNameWithBuild":"Leona  Build"},{"championId":"90","championSlug":"malzahar","championName":"Malzahar","championNameWithBuild":"Malzahar  Build"},{"championId":"91","championSlug":"talon","championName":"Talon","championNameWithBuild":"Talon  Build"},{"championId":"92","championSlug":"riven","championName":"Riven","championNameWithBuild":"Riven  Build"},{"championId":"96","championSlug":"kogmaw","championName":"Kog'Maw","championNameWithBuild":"Kog'Maw  Build"},{"championId":"98","championSlug":"shen","championName":"Shen","championNameWithBuild":"Shen  Build"},{"championId":"99","championSlug":"lux","championName":"Lux","championNameWithBuild":"Lux  Build"},{"championId":"101","championSlug":"xerath","championName":"Xerath","championNameWithBuild":"Xerath  Build"},{"championId":"102","championSlug":"shyvana","championName":"Shyvana","championNameWithBuild":"Shyvana  Build"},{"championId":"103","championSlug":"ahri","championName":"Ahri","championNameWithBuild":"Ahri  Build"},{"championId":"104","championSlug":"graves","championName":"Graves","championNameWithBuild":"Graves  Build"},{"championId":"105","championSlug":"fizz","championName":"Fizz","championNameWithBuild":"Fizz  Build"},{"championId":"106","championSlug":"volibear","championName":"Volibear","championNameWithBuild":"Volibear  Build"},{"championId":"107","championSlug":"rengar","championName":"Rengar","championNameWithBuild":"Rengar  Build"},{"championId":"110","championSlug":"varus","championName":"Varus","championNameWithBuild":"Varus  Build"},{"championId":"111","championSlug":"nautilus","championName":"Nautilus","championNameWithBuild":"Nautilus  Build"},{"championId":"112","championSlug":"viktor","championName":"Viktor","championNameWithBuild":"Viktor  Build"},{"championId":"113","championSlug":"sejuani","championName":"Sejuani","championNameWithBuild":"Sejuani  Build"},{"championId":"114","championSlug":"fiora","championName":"Fiora","championNameWithBuild":"Fiora  Build"},{"championId":"115","championSlug":"ziggs","championName":"Ziggs","championNameWithBuild":"Ziggs  Build"},{"championId":"117","championSlug":"lulu","championName":"Lulu","championNameWithBuild":"Lulu  Build"},{"championId":"119","championSlug":"draven","championName":"Draven","championNameWithBuild":"Draven  Build"},{"championId":"120","championSlug":"hecarim","championName":"Hecarim","championNameWithBuild":"Hecarim  Build"},{"championId":"121","championSlug":"khazix","championName":"Kha'Zix","championNameWithBuild":"Kha'Zix  Build"},{"championId":"122","championSlug":"darius","championName":"Darius","championNameWithBuild":"Darius  Build"},{"championId":"126","championSlug":"jayce","championName":"Jayce","championNameWithBuild":"Jayce  Build"},{"championId":"127","championSlug":"lissandra","championName":"Lissandra","championNameWithBuild":"Lissandra  Build"},{"championId":"131","championSlug":"diana","championName":"Diana","championNameWithBuild":"Diana  Build"},{"championId":"133","championSlug":"quinn","championName":"Quinn","championNameWithBuild":"Quinn  Build"},{"championId":"134","championSlug":"syndra","championName":"Syndra","championNameWithBuild":"Syndra  Build"},{"championId":"136","championSlug":"aurelionsol","championName":"Aurelion Sol","championNameWithBuild":"Aurelion Sol  Build"},{"championId":"141","championSlug":"kayn","championName":"Kayn","championNameWithBuild":"Kayn  Build"},{"championId":"142","championSlug":"zoe","championName":"Zoe","championNameWithBuild":"Zoe  Build"},{"championId":"143","championSlug":"zyra","championName":"Zyra","championNameWithBuild":"Zyra  Build"},{"championId":"145","championSlug":"kaisa","championName":"Kai'Sa","championNameWithBuild":"Kai'Sa  Build"},{"championId":"147","championSlug":"seraphine","championName":"Seraphine","championNameWithBuild":"Seraphine  Build"},{"championId":"150","championSlug":"gnar","championName":"Gnar","championNameWithBuild":"Gnar  Build"},{"championId":"154","championSlug":"zac","championName":"Zac","championNameWithBuild":"Zac  Build"},{"championId":"157","championSlug":"yasuo","championName":"Yasuo","championNameWithBuild":"Yasuo  Build"},{"championId":"161","championSlug":"velkoz","championName":"Vel'Koz","championNameWithBuild":"Vel'Koz  Build"},{"championId":"163","championSlug":"taliyah","championName":"Taliyah","championNameWithBuild":"Taliyah  Build"},{"championId":"164","championSlug":"camille","championName":"Camille","championNameWithBuild":"Camille  Build"},{"championId":"166","championSlug":"akshan","championName":"Akshan","championNameWithBuild":"Akshan  Build"},{"championId":"201","championSlug":"braum","championName":"Braum","championNameWithBuild":"Braum  Build"},{"championId":"202","championSlug":"jhin","championName":"Jhin","championNameWithBuild":"Jhin  Build"},{"championId":"203","championSlug":"kindred","championName":"Kindred","championNameWithBuild":"Kindred  Build"},{"championId":"221","championSlug":"zeri","championName":"Zeri","championNameWithBuild":"Zeri  Build"},{"championId":"222","championSlug":"jinx","championName":"Jinx","championNameWithBuild":"Jinx  Build"},{"championId":"223","championSlug":"tahmkench","championName":"Tahm Kench","championNameWithBuild":"Tahm Kench  Build"},{"championId":"234","championSlug":"viego","championName":"Viego","championNameWithBuild":"Viego  Build"},{"championId":"235","championSlug":"senna","championName":"Senna","championNameWithBuild":"Senna  Build"},{"championId":"236","championSlug":"lucian","championName":"Lucian","championNameWithBuild":"Lucian  Build"},{"championId":"238","championSlug":"zed","championName":"Zed","championNameWithBuild":"Zed  Build"},{"championId":"240","championSlug":"kled","championName":"Kled","championNameWithBuild":"Kled  Build"},{"championId":"245","championSlug":"ekko","championName":"Ekko","championNameWithBuild":"Ekko  Build"},{"championId":"246","championSlug":"qiyana","championName":"Qiyana","championNameWithBuild":"Qiyana  Build"},{"championId":"254","championSlug":"vi","championName":"Vi","championNameWithBuild":"Vi  Build"},{"championId":"266","championSlug":"aatrox","championName":"Aatrox","championNameWithBuild":"Aatrox  Build"},{"championId":"267","championSlug":"nami","championName":"Nami","championNameWithBuild":"Nami  Build"},{"championId":"268","championSlug":"azir","championName":"Azir","championNameWithBuild":"Azir  Build"},{"championId":"350","championSlug":"yuumi","championName":"Yuumi","championNameWithBuild":"Yuumi  Build"},{"championId":"360","championSlug":"samira","championName":"Samira","championNameWithBuild":"Samira  Build"},{"championId":"412","championSlug":"thresh","championName":"Thresh","championNameWithBuild":"Thresh  Build"},{"championId":"420","championSlug":"illaoi","championName":"Illaoi","championNameWithBuild":"Illaoi  Build"},{"championId":"421","championSlug":"reksai","championName":"Rek'Sai","championNameWithBuild":"Rek'Sai  Build"},{"championId":"427","championSlug":"ivern","championName":"Ivern","championNameWithBuild":"Ivern  Build"},{"championId":"429","championSlug":"kalista","championName":"Kalista","championNameWithBuild":"Kalista  Build"},{"championId":"432","championSlug":"bard","championName":"Bard","championNameWithBuild":"Bard  Build"},{"championId":"497","championSlug":"rakan","championName":"Rakan","championNameWithBuild":"Rakan  Build"},{"championId":"498","championSlug":"xayah","championName":"Xayah","championNameWithBuild":"Xayah  Build"},{"championId":"516","championSlug":"ornn","championName":"Ornn","championNameWithBuild":"Ornn  Build"},{"championId":"517","championSlug":"sylas","championName":"Sylas","championNameWithBuild":"Sylas  Build"},{"championId":"518","championSlug":"neeko","championName":"Neeko","championNameWithBuild":"Neeko  Build"},{"championId":"523","championSlug":"aphelios","championName":"Aphelios","championNameWithBuild":"Aphelios  Build"},{"championId":"526","championSlug":"rell","championName":"Rell","championNameWithBuild":"Rell  Build"},{"championId":"555","championSlug":"pyke","championName":"Pyke","championNameWithBuild":"Pyke  Build"},{"championId":"711","championSlug":"vex","championName":"Vex","championNameWithBuild":"Vex  Build"},{"championId":"777","championSlug":"yone","championName":"Yone","championNameWithBuild":"Yone  Build"},{"championId":"875","championSlug":"sett","championName":"Sett","championNameWithBuild":"Sett  Build"},{"championId":"876","championSlug":"lillia","championName":"Lillia","championNameWithBuild":"Lillia  Build"},{"championId":"887","championSlug":"gwen","championName":"Gwen","championNameWithBuild":"Gwen  Build"}];
+        var topChampions = [99,202,81,51,157];
+        var locales = {"champions": 'Champions', "builds": 'Builds', "summoners": 'Players', "recent": 'Recent', "proPlayers": 'Pro Players', "cards": 'Cards'};
+        var autocompleteManager = new AutoCompleteManager('lol', '', $('#topnavbarform .search_field')[0], 'autocomplete-area-topnav', 100, locales, topChampions, allChampions, isMobile, false);
+        var autocompleteManagerHomepage = new AutoCompleteManager('lol', '', $('#homepageForm .search_field')[0], 'autocomplete-area-homepage', 100, locales, topChampions, allChampions, isMobile, false);
+    });
+</script>
+<script src="//lolg-cdn.porofessor.gg/app.js?v=1642798527"></script>
+<!-- Google Analytics -->
+<script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-12568563-8', 'leagueofgraphs.com');
+        ga('require', 'linkid', 'linkid.js');
+
+        ga('set', 'contentGroup1', 'en');
+        ga('set', 'contentGroup2', 'champions/counters');
+        ga('set', 'contentGroup3', 'champions/counters');
+
+        ga('set', 'dimension1', 'light');
+
+                ga('send', 'pageview');
+        </script>
+<!-- Fin Google Analytics -->
+<!-- Rito Analytics -->
+<script type="text/javascript">
+        (function (t, l) {
+            let w = window, d = document, s = d.createElement('script'), f = d.getElementsByTagName('script')[0];
+            w[t] = w[t] || function () {
+                (w["_rgea"] = w["_rgea"] || [["uts", new Date()]]).push(Array.prototype.slice.call(arguments));
+                w.RGEA && w.RGEA.p();
+            };
+            s.type = 'text/javascript';
+            s.async = true;
+            s.defer = true;
+            s.src = l;
+            f.parentNode.insertBefore(s, f);
+        })("rgea", "https://static.developer.riotgames.com/js/rgea.min.js");
+
+        rgea("propertyId", "RGEA0002-978d2d65-0db7-4d5b-8d78-f99526bb04ed");
+        rgea("anonymous", true);
+    </script>
+<!-- Rito Analytics -->
+</body>
+</html>
