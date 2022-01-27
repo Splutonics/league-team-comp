@@ -12,6 +12,7 @@ from selenium.webdriver.common.by import By
 
 
 BASE_URL = 'https://www.leagueofgraphs.com/champions/counters'
+#change to CHAMPIONS
 champions = ['aatrox']
 
 # champions = ['aatrox', 'ahri', 'akali', 'akshan', 'alistar', 'amumu']
@@ -27,10 +28,12 @@ def champ_scrape(driver, champion_name):
     # wait = WebDriverWait(driver, 5)
     # entire_page = wait.until(
     # EC.visibility_of_all_elements_located((By.ID, 'pageContent')))
-
+    
+    #extracts all the relevent html content
     main_content = driver.find_element(
         By.ID, "mainContent").get_attribute('innerHTML')
 
+    #begin parsing and breaking down the html into desired subparts
     soup = BeautifulSoup(main_content, features="html.parser")
     data_tables = soup.find_all(class_="data_table sortable_table")
 
@@ -47,46 +50,19 @@ def champ_scrape(driver, champion_name):
     return str(champion_name)
 
 
-driver = webdriver.Chrome()
-lookup_table = dict()
-for champion in champions:
-    lookup_table[champion] = []
-    lookup_table[champion].append(champ_scrape(driver, champion))
-
-driver.quit()
 
 
-# print(champ_url)
-# page = requests.get(champ_url)
-# soup = BeautifulSoup(page.content, "html.parser")
-# data = soup.find_all(class_='data_table sortable_table')
-# time.sleep(1)
-
-# driver.quit()
-
-# print(data)
-# file = open('data/', 'w')
-# # soup.
-# file.write(str(soup))
-# file.close()
-# print(soup)
 
 
-# webbrowser.open_new_tab(BASE_URL)
-# wait_time = random.random()/50
-# time.sleep(wait_time)
-
-
-# driver = webdriver.Chrome()
-# driver.get(champ_url)
-
-# # button = driver.find_element_by_css_selector(
-# #     '.btn.btn-primary.w-100.m-1.romdownbtn')
-# time.sleep(5)
-
-# # button.click()
-
-# # time.sleep(10)
-# driver.quit()
 if __name__ == '__main__':
-    pass
+    #instantiate driver
+    #make sure to be runnining chromedriver.exe
+    driver = webdriver.Chrome()
+
+    lookup_table = dict()
+    #scrape info for each champs page and save to hash table
+    for champion in champions:
+        lookup_table[champion] = []
+        lookup_table[champion].append(champ_scrape(driver, champion))
+
+    driver.quit()
