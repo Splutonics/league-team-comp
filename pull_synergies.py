@@ -52,8 +52,9 @@ if __name__ == '__main__':
     driver = webdriver.Chrome()
 
     # this variable should be received from the riot API _OR_ scraped from the base_url
+    # issues when scraped for base_url, consider scrape from API
     # all_champions = ['aatrox', 'ahri']
-    all_champions = json.load(open('data/champ_data.json', 'r'))
+    all_champions = json.load(open('data/all_champs.json', 'r'))
 
     # wins_lane = 0
     # loses_lane = 1
@@ -63,7 +64,9 @@ if __name__ == '__main__':
 
     lookup_table = dict()
     time_log = []
+
     # scrape info for each champs page and save to hash table
+    # currently, has issues with names with a space (e.g. tahm kench) or a apostrophe (e.g. kha'zix)
     for champion in all_champions:
         lookup_table[champion] = champ_scrape(driver, champion)
 
@@ -74,7 +77,7 @@ if __name__ == '__main__':
 
     driver.quit()
 
-    f = open('data/champ_data.json', 'w')
+    f = open('data/champ_data.json', 'w+')
 
     c = lookup_table
 

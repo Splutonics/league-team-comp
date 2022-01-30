@@ -1,8 +1,6 @@
 #cache folder
 data/
 
-scrapes/
-
 #chromedriver
 *.exe
 

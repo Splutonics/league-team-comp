@@ -20,7 +20,7 @@ def get_all_champions(driver, url):
     all_champions = []
     for champ in champs_html:
         try:
-            all_champions.append(champ['data-name'])
+            all_champions.append(champ['data-name'].lower())
         except:
             pass
 
@@ -31,7 +31,7 @@ if __name__ == '__main__':
 
     BASE_URL = 'https://www.leagueofgraphs.com/champions/counters'
 
-    f = open('data/all_champs.json', 'w')
+    f = open('data/all_champs.json', 'w+')
 
     # instantiate driver
     # make sure to be runnining chromedriver.exe
