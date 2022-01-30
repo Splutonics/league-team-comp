@@ -1,4 +1,4 @@
-import pickle
+import json
 from time import sleep
 from random import random
 from bs4 import BeautifulSoup
@@ -31,18 +31,18 @@ if __name__ == '__main__':
 
     BASE_URL = 'https://www.leagueofgraphs.com/champions/counters'
 
+    f = open('data/all_champs.json', 'w')
+
     # instantiate driver
     # make sure to be runnining chromedriver.exe
     driver = webdriver.Chrome()
-
-    f = open('data/all_champs.pkl', 'wb')
 
     c = get_all_champions(driver, BASE_URL)
 
     driver.quit()
 
-    pickle.dump(c, f)
+    f.write(json.dumps(c))
 
     f.close()
 
-    print(pickle.load(open('data/all_champs.pkl', 'rb')))
+    print(json.load(open('data/all_champs.json', 'r')))

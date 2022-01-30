@@ -1,4 +1,4 @@
-import pickle
+import json
 import pprint
 from time import sleep
 from random import random
@@ -18,7 +18,6 @@ def champ_scrape(driver, champion_name):
         driver = webdriver.Chrome()
     champ_url = BASE_URL + '/' + champion_name
     driver.get(champ_url)
-    # time.sleep(2)
 
     # wait = WebDriverWait(driver, 5)
     # entire_page = wait.until(
@@ -31,7 +30,7 @@ def champ_scrape(driver, champion_name):
     # begin parsing and breaking down the html into desired subparts
     soup = BeautifulSoup(main_content, features="html.parser")
     data_tables = soup.find_all(class_="data_table sortable_table")
-    print(data_tables)
+    # print(data_tables)
 
     champ_hash = dict()
     for idx, table in enumerate(data_tables):
@@ -53,16 +52,14 @@ if __name__ == '__main__':
     driver = webdriver.Chrome()
 
     # this variable should be received from the riot API _OR_ scraped from the base_url
-    all_champions = ['aatrox']
-    # all_champions = pickle.load(open('data/all_champs.pkl', 'rb')
+    # all_champions = ['aatrox', 'ahri']
+    all_champions = json.load(open('data/champ_data.json', 'r'))
 
-    # all_champions = ['aatrox', 'ahri', 'akali', 'akshan', 'alistar', 'amumu']
-
-    wins_lane = 0
-    loses_lane = 1
-    best_with = 2
-    wins_more_against = 3
-    loses_more_against = 4
+    # wins_lane = 0
+    # loses_lane = 1
+    # best_with = 2
+    # wins_more_against = 3
+    # loses_more_against = 4
 
     lookup_table = dict()
     time_log = []
@@ -71,11 +68,20 @@ if __name__ == '__main__':
         lookup_table[champion] = champ_scrape(driver, champion)
 
         # add random time to avoid over querying the website (log it as well)
-        rand_time = 2*random.random()
+        rand_time = 2*random()
         time_log.append(rand_time)
         sleep(rand_time)
 
-    pp = pprint.PrettyPrinter(indent=2)
-    pp.pprint(lookup_table)
-    print("Time spent sleeping: ", sum(time_log))
     driver.quit()
+
+    f = open('data/champ_data.json', 'w')
+
+    c = lookup_table
+
+    f.write(json.dumps(c))
+
+    f.close()
+
+    # pp = pprint.PrettyPrinter(indent=2)
+    # pp.pprint(json.load(open('data/champ_data.json', 'r')))
+    print("Time spent sleeping: ", sum(time_log))
