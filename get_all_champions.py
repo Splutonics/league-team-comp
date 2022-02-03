@@ -1,3 +1,5 @@
+# not used, use api_get_all_champions.py instead
+
 import json
 from time import sleep
 from random import random

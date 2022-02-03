@@ -5,10 +5,8 @@ from random import random
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-# from selenium.webdriver.support.ui import WebDriverWait
-# from selenium.webdriver.support import expected_conditions as EC
 
-# from get_all_champions import get_all_champions
+# add ELO functionality, aka pulls synergies for silver, or gold, etc...
 
 BASE_URL = 'https://www.leagueofgraphs.com/champions/counters'
 
