@@ -17,10 +17,6 @@ def champ_scrape(driver, champion_name):
     champ_url = BASE_URL + '/' + champion_name
     driver.get(champ_url)
 
-    # wait = WebDriverWait(driver, 5)
-    # entire_page = wait.until(
-    # EC.visibility_of_all_elements_located((By.ID, 'pageContent')))
-
     # extracts all the relevent html content
     main_content = driver.find_element(
         By.ID, "mainContent").get_attribute('innerHTML')
@@ -35,6 +31,7 @@ def champ_scrape(driver, champion_name):
         champ_names_html = table.find_all(class_="name")
         champ_names = [champ.string for champ in champ_names_html]
 
+        # ! Fix this to include all hidden elements as well, currently only grabs shown elements
         champ_values_html = table.find_all(class_="progressBarTxt")
         champ_values = [champ.string for champ in champ_values_html]
 
@@ -66,10 +63,10 @@ if __name__ == '__main__':
     # scrape info for each champs page and save to hash table
     # currently, has issues with names with a space (e.g. tahm kench) or a apostrophe (e.g. kha'zix)
     for champion in all_champions:
-        lookup_table[champion] = champ_scrape(driver, champion)
+        lookup_table[champion] = champ_scrape(driver, champion.lower())
 
         # add random time to avoid over querying the website (log it as well)
-        rand_time = 2*random()
+        rand_time = 0.5*random()
         time_log.append(rand_time)
         sleep(rand_time)
 
