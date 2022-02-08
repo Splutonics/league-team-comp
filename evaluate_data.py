@@ -24,7 +24,7 @@ print(synergies_df.head())
 # TODO calc synergies combinations
 # ? 2 approaches, ONLY calculate pared champ list synergies (quicker upfront solve time, requires a re-solve for new summoner/changed champ lists)
 # ? calculate every single combination synergy, then search/filter (longer upfront solve time, more storage required, quicker runtime lookup)
-# ? i think the second option is more alluring
+# ? upon further analysis, every single combination synergy is not feasible on my computer. the first option is all you got, a pared champ pool
 
 # TODO pare down possible champions for each summoner
 
