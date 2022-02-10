@@ -30,8 +30,8 @@ def lookup_summoner(name: str, min_level: int):
                 champ_codename = id_to_codename[str(champ['championId'])]
                 summoner_champs.append(champ_codename)
 
-        pp = pprint.PrettyPrinter(indent=2)
-        pp.pprint(summoner_champs)
+        # pp = pprint.PrettyPrinter(indent=2)
+        # pp.pprint(name, ": ", summoner_champs)
 
         return summoner_champs
 
