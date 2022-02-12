@@ -23,7 +23,8 @@ def create_synergy_dataframe(*summoners: str, min_level: int):
         champs_1 = lookup_summoner(summoners[0], min_level=min_level)
         champs_2 = lookup_summoner(summoners[1], min_level=min_level)
         champs_3 = lookup_summoner(summoners[2], min_level=min_level)
-        champs_4 = lookup_summoner(summoners[3], min_level=min_level)
+        # !
+        champs_4 = lookup_summoner(summoners[3], min_level=6)
         champs_5 = lookup_summoner(summoners[4], min_level=min_level)
         print(champs_1)
         print(champs_2)
@@ -56,6 +57,7 @@ def create_synergy_dataframe(*summoners: str, min_level: int):
     temp2 = temp.join(pd.DataFrame(temp[best_with].to_list(), columns=[
         'other_champion', 'synergy'])).drop(best_with, axis=1)
     # turns the percentage string into a float
+    # ? throws an error if a champ has value of 0 (NaN)
     temp2['synergy'] = temp2['synergy'].str.rstrip('%').astype('float')/100.0
     # TODO
     del temp
@@ -64,6 +66,7 @@ def create_synergy_dataframe(*summoners: str, min_level: int):
     convert = json.load(open('data/champ_full_to_codename.json', 'r'))
     synergy_df = temp2.copy()
     # TODO Figure out a way to get rid of this annoying warning
+    # ? try synergy_df['other_champion'] = synergy_df['other_champion'].map(convert)
     for i in range(len(temp2)):
         synergy_df['other_champion'][i] = convert[temp2['other_champion'].iloc[i]]
     # TODO
@@ -84,7 +87,7 @@ def create_synergy_dataframe(*summoners: str, min_level: int):
         champs_1, champs_2, champs_3, champs_4, champs_5))
 
     print("Approximate runtime: ", len(
-        pared_champs_combos)*90/10000, " seconds")
+        pared_champs_combos)*100/10000, " seconds")
     # print(len(pared_champs_combos))
 
     all_combo_scores = pd.DataFrame()

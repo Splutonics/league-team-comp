@@ -66,7 +66,7 @@ if __name__ == '__main__':
         lookup_table[champion] = champ_scrape(driver, champion.lower())
 
         # add random time to avoid over querying the website (log it as well)
-        rand_time = 0.5*random()
+        rand_time = 2*random()
         time_log.append(rand_time)
         sleep(rand_time)
 
