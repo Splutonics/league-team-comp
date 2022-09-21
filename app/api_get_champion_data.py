@@ -19,43 +19,16 @@ try:
     champions_version = versions['n']['champion']
 
     # Lets get some champions
-    current_champ_list = lol_watcher.data_dragon.champions(champions_version)
+    all_champ_info = lol_watcher.data_dragon.champions(champions_version,full=True)
 
-    # just dumps all the data to a json
+    # dumps ALL champion data into a json, keys are champion codenames
     f = open('data/all_champions_info.json', 'w+')
-    f.write(json.dumps(current_champ_list))
+    f.write(json.dumps(all_champ_info['data']))
     f.close()
 
-    # only dumps champ codenames to json
+    # dumps only champ codenames to json
     f = open('data/all_champs.json', 'w+')
-    f.write(json.dumps(list(current_champ_list['data'].keys())))
-    f.close()
-
-    # champ name conversion in order from fullname to codename (e.g. Cho'Gath to Chogath, Wukong to MonkeyKing)
-    converter = dict()
-    for champion in current_champ_list['data']:
-        converter[current_champ_list['data'][champion]['name']] = champion
-
-    f = open('data/champ_full_to_codename.json', 'w+')
-    f.write(json.dumps(converter))
-    f.close()
-
-    # champ name conversion in order from id to codename (e.g. ## to Chogath)
-    id_converter = dict()
-    for champion in current_champ_list['data']:
-        id_converter[current_champ_list['data'][champion]['key']] = champion
-
-    f = open('data/champ_id_to_codename.json', 'w+')
-    f.write(json.dumps(id_converter))
-    f.close()
-
-    # champ name conversion in order from codename to fullname (e.g. Chogath to Cho'Gath)
-    converter2 = dict()
-    for champion in current_champ_list['data']:
-        converter2[champion] = current_champ_list['data'][champion]['name']
-
-    f = open('data/champ_code_to_fullname.json', 'w+')
-    f.write(json.dumps(converter2))
+    f.write(json.dumps(list(all_champ_info['data'].keys())))
     f.close()
 
     # pp = pprint.PrettyPrinter(indent=2)
